@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.env
+
+# Neo4j
+data/
+logs/
+import/
+
+# macOS specific
+.DS_Store
+
+# Any other temporary files
+.idea/
+.vscode/
+*.log
+
